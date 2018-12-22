@@ -10,3 +10,5 @@ Implemention
 Probably better to write different functions for each conversion,
 instead of handling all conversions in a single function
 
+
+You should make a habit of always pulling from the remote repository before you start working on any files in it. It doesn’t hurt anything if no files have been changes, but it can prevent merge conflicts later on if they have.
