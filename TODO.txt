@@ -1,0 +1,12 @@
+Conversion functions needed:
+
+- Dollars to Cents
+- Gallons to Liters
+- Hours to Minutes
+
+---Change rates
+Implemention
+
+Probably better to write different functions for each conversion,
+instead of handling all conversions in a single function
+
